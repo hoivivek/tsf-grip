@@ -1,0 +1,57 @@
+body{
+    background-color: aquamarine;
+}
+
+#bl1{
+    padding: 25px;
+    background-color: coral;
+}
+/* Header */
+#body{
+    background-color: crimson;
+}
+
+#h1{
+    color:goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+a{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color:aliceblue;
+    display:inline-block;
+}
+
+a:hover{
+    color: blue;
+    background-color: aqua;
+}
+
+#pay{
+   background-color: goldenrod;
+    padding: 15px;
+    color: whitesmoke;
+    border-radius: 2px;
+}
+
+/* About Us  */
+#b2{
+    padding: 25px;
+}
+
+/*Contact */
+#b3{
+    padding:30px;
+}
+
+/*Donation*/
+#b4{
+    background-image: url("donation.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
